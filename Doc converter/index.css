@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(64, 64, 124);
+}
+.body{
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+button{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: rgb(195, 194, 207);
+    position: relative;
+    transform: translateY(200px);    
+}
+button,a{
+    text-decoration: none;
+    color: rgb(37, 85, 124);
+}
